@@ -1,0 +1,498 @@
+body {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif; font-size: 9.75pt;
+}
+textarea {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif; font-size: 9.75pt;
+}
+.bld {
+	font-weight: bold;
+}
+.ur {
+	font-weight: bold;
+}
+.nbMnuItm {
+	font-size: 9.75pt;
+}
+.fufw {
+	font-weight: bold;
+}
+.fnufw {
+	font-weight: normal;
+}
+.bld {
+	font-weight: bold;
+}
+div.vlv .ur {
+	font-weight: bold;
+}
+#divBrandBtns {
+	font-size: 100%;
+}
+#divConvTopic {
+	font-size: 18pt;
+}
+#divSender > span {
+	font-size: 15pt;
+}
+#divSn > span {
+	font-size: 15pt;
+}
+.divExp > #divExpHdr > .divSn > span {
+	font-size: 15pt;
+}
+.fbBiu {
+	font-family: Courier New; font-size: 17px;
+}
+table#tblPckr {
+	font-size: 0px;
+}
+.rwW a {
+	font-style: normal; font-weight: normal;
+}
+.rwW strong {
+	font-style: normal; font-weight: normal;
+}
+.rwW em {
+	font-style: normal; font-weight: normal;
+}
+.rwW u {
+	font-style: normal; font-weight: normal;
+}
+.dyTms {
+	font-size: xx-small;
+}
+.dpWN {
+	font-size: 7.5pt;
+}
+.fb0 {
+	font-weight: normal;
+}
+.timeStripLine {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif;
+}
+.timeStripLeft {
+	font-size: 15pt;
+}
+.timeStripRight {
+	font-size: 8.25pt;
+}
+#divMonthlyViewDateName {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 16.5pt;
+}
+#spanDayName {
+	font-size: 14pt;
+}
+.calHD {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif;
+}
+.calHDTdy {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif;
+}
+.calHD > #spanDayName {
+	font-size: 21pt;
+}
+.calHDTdy > #spanDayName {
+	font-size: 21pt;
+}
+.calHD > #spanWeekDayName {
+	font-size: 13pt;
+}
+.calHDTdy > #spanWeekDayName {
+	font-size: 13pt;
+}
+.weekdayHeader {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 13.5pt;
+}
+#divCurrMonth {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 13.5pt;
+}
+.currentMonth {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 13.5pt;
+}
+#divPrevMonth {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 8.25pt;
+}
+#divNextMonth {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 8.25pt;
+}
+#divWeekNumber {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 15pt;
+}
+.weekdayName {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 13pt;
+}
+#divYearMonthBar {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 9.75pt;
+}
+.visLn {
+	font-size: 8.25pt;
+}
+.visSbj {
+	font-size: 9.75pt; font-weight: bold;
+}
+.tdHdr {
+	font-family: Arial; font-size: 160%;
+}
+span.nm {
+	font-size: 130%; font-weight: bold;
+}
+.abArrw {
+	font-family: Courier New;
+}
+.mid tr {
+	font-size: 10pt;
+}
+.tdCopy {
+	font-size: 80%;
+}
+input#txtcp {
+	font-size: 100%;
+}
+select {
+	font-size: 100%;
+}
+input {
+	font-size: 100%;
+}
+textarea {
+	font-size: 100%;
+}
+button {
+	font-size: 100%;
+}
+label {
+	font-size: 100%;
+}
+pre {
+	font-size: 100%;
+}
+.awRW {
+	font-size: 100%;
+}
+.edtSubj {
+	font-size: 100%;
+}
+textarea#taAn {
+	font-size: 100%;
+}
+table#tblErr {
+	font-size: 100%;
+}
+td#tdErrHdCt {
+	font-size: 100%;
+}
+div#divFH {
+	font-size: 100%;
+}
+div#divNFld {
+	font-size: 100%;
+}
+div#divRFld {
+	font-size: 100%;
+}
+input#txtNFld {
+	font-size: 100%;
+}
+body.owaLgnBdy {
+	font-size: 100%;
+}
+.bld {
+	font-weight: bold;
+}
+.ur {
+	font-weight: bold;
+}
+.nwItmTxtFrm {
+	font-weight: bold;
+}
+span.bld {
+	font-weight: bold;
+}
+.rwDL {
+	font-weight: bold;
+}
+.moSctTxt {
+	font-weight: bold;
+}
+.lyt .hdr {
+	font-weight: bold;
+}
+.lyt .sugHdr {
+	font-weight: bold;
+}
+.dyTms .dy {
+	font-weight: bold;
+}
+table#tblDpM td.b {
+	font-weight: bold;
+}
+.fb1 {
+	font-weight: bold;
+}
+.visSbj {
+	font-weight: bold;
+}
+tr.gh td {
+	font-weight: bold;
+}
+.bold {
+	font-weight: bold;
+}
+span#spnPn {
+	font-weight: bold;
+}
+table#tblCnts .sct {
+	font-weight: bold;
+}
+table#tblCnts .bLn {
+	font-weight: bold;
+}
+div#divNtfyItmSb {
+	font-weight: bold;
+}
+.adMgHd {
+	font-weight: bold;
+}
+.cntTabCT {
+	font-weight: bold;
+}
+.cntDetPT {
+	font-weight: bold;
+}
+body.rtl .cntDetPT {
+	font-weight: bold;
+}
+.cntSepT {
+	font-weight: bold;
+}
+#spnMbQtUsg {
+	font-weight: bold;
+}
+.pvwLabel {
+	font-weight: bold;
+}
+.readFormSubjectContainer {
+	font-size: 18pt;
+}
+.fbItalics {
+	font-style: italic;
+}
+span#spnCmpI {
+	font-style: italic;
+}
+.wvsn {
+	font: 85%/normal Tahoma, Sans Serif, Arial; font-size-adjust: none; font-stretch: normal;
+}
+.rtl .wvsn {
+	font: 85%/normal Tahoma, Sans Serif, Arial; font-size-adjust: none; font-stretch: normal;
+}
+.errDesc #errMsg {
+	font-size: 130%;
+}
+.errHd {
+	font-size: 130%;
+}
+.dp {
+	font-size: 8pt;
+}
+.dpDD {
+	font-size: 8pt;
+}
+.mlIL span#abc {
+	font-size: 100%;
+}
+.txtBdy {
+	font-size: 100%;
+}
+.cntNot {
+	font-size: 100%;
+}
+.mbqtTxt {
+	font-size: 95%;
+}
+input.btn {
+	font-size: 95%;
+}
+.btnOnFcs {
+	font-size: 95%;
+}
+.btnOnMseOvr {
+	font-size: 95%;
+}
+.btnOnMseDwn {
+	font-size: 95%;
+}
+.tbWIB {
+	font: 95%/normal Tahoma, Sans Serif, Arial; font-size-adjust: none; font-stretch: normal;
+}
+.tbEIB {
+	font: 95%/normal Tahoma, Sans Serif, Arial; font-size-adjust: none; font-stretch: normal;
+}
+.userTileTxt {
+	font-size: 11pt;
+}
+#aLogOff > .userTileTxt {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif;
+}
+#divBrandOrgName {
+	font-size: 14pt;
+}
+#divBrandOrgLive {
+	font-size: 7pt;
+}
+.brandBarLink {
+	font-size: 10pt;
+}
+span#spnHdr {
+	font-size: 14pt;
+}
+#divList #txtSubj {
+	font-size: 16pt;
+}
+div#divTr {
+	font-size: 9pt;
+}
+div#divTrBddy {
+	font-size: 9pt;
+}
+.gbIL > .gh {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-size: 12pt;
+}
+.cvIL > .df {
+	font-size: 9pt;
+}
+.baseIL > #vr {
+	font-size: 9.75pt;
+}
+.baseIL > #sr {
+	font-size: 9pt;
+}
+#spnSent {
+	font-size: 7.5pt;
+}
+.itmPrt #divFs {
+	font-size: 7.5pt;
+}
+.snt {
+	font-size: 7.5pt;
+}
+.roWellLabel {
+	font-size: 8.25pt;
+}
+.roWellWrap {
+	font-size: 8.25pt;
+}
+.roHdrRow {
+	font-size: 8.25pt;
+}
+.roCatAttWellLabel {
+	font-size: 8.25pt;
+}
+.spanCatContainer {
+	font-size: 8.25pt;
+}
+#divVLV #divHeaders {
+	font-size: 7.5pt;
+}
+.alertBtnMixed .alertBtnTxt {
+	font-size: 24pt; font-weight: bold;
+}
+div#divSearch {
+	font-size: 9.75pt;
+}
+.divClps .divSn {
+	font-size: 12pt;
+}
+.divClps #divSn span {
+	font-size: 12pt;
+}
+.divClps #divSm {
+	font-size: 9pt;
+}
+.divClps > #divDt {
+	font-size: 9pt;
+}
+#divTr a.trNdGpHd {
+	font-size: 9.75pt;
+}
+#divTrBddy a.trNdGpHd {
+	font-size: 9.75pt;
+}
+#divIB {
+	font-size: 9pt;
+}
+.mnuItmTxtHdr {
+	font-size: 13.5pt;
+}
+.mnuItmTxtItm {
+	font-size: 9pt;
+}
+.mnuItmTxtItmIndented {
+	font-size: 9pt;
+}
+.dpDOW {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif;
+}
+.monthPickerYear {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif;
+}
+#spanDate {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif; font-size: 13.5pt;
+}
+.todayCell > #divMonthlyViewDateName {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif;
+}
+#divMtgHeaderTxt {
+	font-size: 15pt;
+}
+#divMtgCancelLink {
+	font-size: 15pt;
+}
+#divMtgCancelLink {
+	font-family: Segoe UI Light,Helvetica,Arial,sans-serif; font-weight: lighter;
+}
+input#txtSubj {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif;
+}
+input.fileField {
+	font-size: 8.5pt;
+}
+.notificationsDialogTitle {
+	font-size: 13.5pt;
+}
+.notificationsDialogDescription {
+	font-size: 9pt;
+}
+.divNotificationsColumn2 {
+	font-size: 9pt;
+}
+.divNotificationsColumn3 {
+	font-size: 9pt;
+}
+.divNotificationsColumn1Row1 {
+	font-size: 9.75pt;
+}
+.divRemindersDueInTime {
+	font-size: 27pt;
+}
+.reminderNow {
+	font-size: 9.75pt;
+}
+#rdArea pre {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif; font-size: 9pt;
+}
+#compose > #txtArea > #txtBox {
+	font-family: Segoe UI,Helvetica,Arial,sans-serif; font-size: 9pt;
+}
+.actBarTxt {
+	font-size: 8.25pt;
+}
+#prTtl {
+	font-size: 8.25pt;
+}
+.vwMnTtl {
+	font-size: 13.5pt;
+}
+.vwMnCap {
+	font-size: 8.25pt;
+}
